@@ -1,6 +1,6 @@
 import React from 'react'
 import img1 from '../assets/photo-1529158062015-cad636e205a0.avif'
-import NavBar from '../Components/Navigation/NavBAr'
+import NavBar from '../Components/Navigation/NavBar'
 import bgImg from '../assets/banner-desk.png'
 import { RiNumber1 } from "react-icons/ri";
 import { RiNumber2 } from "react-icons/ri";
